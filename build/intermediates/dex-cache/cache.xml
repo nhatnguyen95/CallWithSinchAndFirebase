@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nhatnguyen/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11_fa3c964e0659945b3842f961ea76074f46e57d10.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0-alpha1_ef075ae12717b813f7be114321d1953ac3ca4ecd.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0-alpha1_20223ebf9d63371a755219a04708a684d3dc8b3f.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_4c3ce397b438d79d914783a5f113c7b467d6159a.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_de00cd3d1825d297aefe66f97c1307070564f4cd.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.3.1_859ab1a7a26755516d8152b740809f38872f23d3.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0-alpha1_57aed1e63aea392551e45ca4f6a3c3d866c68f22.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0-alpha1_6097c27a97b458af963daed54a8f579bad6b71a1.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.3.1_79dd95a387e8a32cededba7e9ab8ced38007e054.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/AndroidStudioProjects/Caller/app/libs/sinch-android-rtc-3.9.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a34c88d2786ce2c14a6d7ee235a64d4c5310152">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/sinch-android-rtc-3.9.3_e9bce4199fb33f2abcc8c93e06fed56677506e1c.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1_e11ab59f2f230d1331f6c8da1c7e4c05cbc4fd53.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_892489b5ca68d9131421b4e208a686fccaac0fd8.jar" />
+    </item>
+    <item
+        jar="/home/nhatnguyen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/home/nhatnguyen/AndroidStudioProjects/Caller/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1_f87107252950d4ea1e587632bd41344e9fc6565a.jar" />
+    </item>
+
+</items>

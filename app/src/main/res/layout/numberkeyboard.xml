@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:paddingRight="20dp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="150px"
+            android:layout_weight="2"
+            android:text="Call to: "
+            android:paddingLeft="20px"
+            android:textSize="10pt"/>
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="100px"
+            android:layout_weight="6"
+            android:textSize="10pt"
+            android:id="@+id/edtNumber"
+            android:background="@drawable/inputbox"
+            android:enabled="false"
+            android:textColor="@color/red"
+            android:paddingRight="10dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        >
+        <Button
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/backspace_icon"
+            android:id="@+id/btnBackSpace"
+            android:layout_marginRight="20dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:background="@drawable/number_1_icon"
+            android:id="@+id/btnNumber1"
+            android:layout_marginLeft="70dp" />
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:background="@drawable/number_2_icon"
+            android:id="@+id/btnNumber2"
+            android:layout_marginLeft="20dp" />
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:background="@drawable/number_3_icon"
+            android:paddingRight="20dp"
+            android:id="@+id/btnNumber3"
+            android:layout_marginLeft="20dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:background="@drawable/number_4_icon"
+            android:layout_marginLeft="70dp"
+            android:id="@+id/btnNumber4" />
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/number_5_icon"
+            android:id="@+id/btnNumber5" />
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/number_6_icon"
+            android:id="@+id/btnNumber6" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:layout_marginLeft="70dp"
+            android:background="@drawable/number_7_icon"
+            android:id="@+id/btnNumber7" />
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/number_8_icon"
+            android:id="@+id/btnNumber8" />
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/number_9_icon"
+            android:id="@+id/btnNumber9" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:layout_marginLeft="70dp"
+            android:background="@drawable/star_icon"
+            android:id="@+id/btnStar" />
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/number_0_icon"
+            android:id="@+id/btnNumber0" />
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="67dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon_hash"
+            android:id="@+id/btnSharp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        >
+        <Button
+            android:layout_width="215dp"
+            android:layout_height="80dp"
+            android:id="@+id/btnCall"
+            android:background="@drawable/button_call" />
+    </LinearLayout>
+</LinearLayout>
