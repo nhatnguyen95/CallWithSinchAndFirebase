@@ -43,9 +43,12 @@ public class LoginActivity extends BaseActivity implements SinchService.StartFai
         mSignUpButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (mLoginName.getText().toString().matches("") || mLoginPassword.getText().toString().matches("")) {
-                    Toast.makeText(LoginActivity.this, "Please fill in your Email or Password first!", Toast.LENGTH_LONG).show();
+                if (mLoginName.getText().toString().matches("")) {
+                    Toast.makeText(LoginActivity.this, "Please Enter your Email first!", Toast.LENGTH_LONG).show();
                 } else {
+					if (mLoginPassword.getText().toString().matches("")) {
+                    Toast.makeText(LoginActivity.this, "Please Enter your Password first!", Toast.LENGTH_LONG).show();
+                }else{
                     Intent intent = new Intent(LoginActivity.this, SignUpActivity.class);
                     Bundle bundle = new Bundle();
                     bundle.putString("email", mLoginName.getText().toString());
@@ -53,6 +56,7 @@ public class LoginActivity extends BaseActivity implements SinchService.StartFai
                     intent.putExtra("extra", bundle);
                     startActivity(intent);
                 }
+				}
             }
         });
     }
